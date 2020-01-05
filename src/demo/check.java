@@ -19,7 +19,7 @@ public class check{
 		
 		check l = new check();
 		l.rafi();
-		l.rafi("mohammed", 518360);
+		l.rafi("mohammed", 5183606);
 		
 	}
 	
